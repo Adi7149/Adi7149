@@ -1,22 +1,27 @@
-<div align="center">
+<!-- ═══════════════ ADITYA JADHAV · NEON PINK TERMINAL ═══════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d0221,45:ff2fa0,100:7a00ff&text=ADITYA%20JADHAV&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Aditya Jadhav"/> <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=22&duration=2600&pause=800&color=FF2FA0&center=true&vCenter=true&width=820&height=40&lines=%3E_+booting+Adi7149.sys+...;%3E_+Java+%C2%B7+Spring+Boot+%C2%B7+React.js;%3E_+secure+REST+APIs+%C2%B7+JWT+%C2%B7+OAuth2;%3E_+B.E.+Information+Technology;%3E_+status%3A+ONLINE+%E2%96%88" alt="typing animation"/> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d0221,50:ff2fa0,100:0d0221" width="100%" alt=""/> <h3><code>[ 01 ] about.me</code></h3> </div>
+java
+// ════════════════════════════════════════════════════════
+// >_ Developer.java                          [ ONLINE ● ]
+// ════════════════════════════════════════════════════════
+@Developer(status = "Aspiring Software Developer")
+public class AdityaJadhav implements FullStackEngineer {
 
-<img src="assets/header.svg" width="100%" alt="Aditya Jadhav - Aspiring Software Developer"/>
+    String education = "B.E. — Information Technology";
+    String[] core = { "Java", "Spring Boot", "React.js", "MySQL" };
+    String[] building = {
+        "REST APIs",
+        "Authentication → Spring Security · JWT · OAuth2",
+        "Database Integration → Hibernate · Spring Data JPA"
+    };
+    String[] strengths = { "OOP", "MVC Architecture", "CRUD Operations" };
 
-<img src="assets/about.svg" width="100%" alt="about.me"/>
+    @Override
+    public String mission() {
+        return "Build reliable applications. Never stop learning.";
+    }
+}
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d0221,50:ff2fa0,100:0d0221" width="100%" alt=""/> <h3><code>[ 02 ] tech.stack</code></h3> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,ts,react,html,css,tailwind,bootstrap,nodejs,express,mysql,mongodb,firebase,git,github,maven&perline=9&theme=dark" alt="tech stack icons"/>
 
-<img src="assets/terminal.svg" width="100%" alt="Developer.java"/>
+<br/><br/>
 
-<img src="assets/stack-title.svg" width="100%" alt="tech.stack"/>
-
-<img src="assets/stack.svg" width="100%" alt="Tech stack: Java, Spring Boot, React.js, MySQL and more"/>
-
-<img src="assets/stats-title.svg" width="100%" alt="system.stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adi7149&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff2fa0&icon_color=ff79c6&text_color=f8d7ff&ring_color=ff2fa0&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi7149&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff2fa0&text_color=f8d7ff&langs_count=8" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Adi7149&hide_border=true&background=0D0221&ring=FF2FA0&fire=FF79C6&currStreakNum=FFFFFF&sideNums=FF2FA0&currStreakLabel=FF2FA0&sideLabels=F8D7FF&dates=B388FF" alt="Streak stats"/>
-
-<img src="assets/footer.svg" width="100%" alt="EOF"/>
-
-</div>
+<table> <tr><td><code>languages</code></td><td> <img src="https://img.shields.io/badge/Java-0d0221?style=flat-square&logo=openjdk&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/JavaScript-0d0221?style=flat-square&logo=javascript&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/TypeScript-0d0221?style=flat-square&logo=typescript&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/SQL-0d0221?style=flat-square&logo=mysql&logoColor=ff2fa0"/> </td></tr> <tr><td><code>frontend</code></td><td> <img src="https://img.shields.io/badge/React.js-0d0221?style=flat-square&logo=react&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/HTML5-0d0221?style=flat-square&logo=html5&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/CSS3-0d0221?style=flat-square&logo=css3&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0d0221?style=flat-square&logo=tailwindcss&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Bootstrap-0d0221?style=flat-square&logo=bootstrap&logoColor=ff2fa0"/> </td></tr> <tr><td><code>backend_&amp;_apis</code></td><td> <img src="https://img.shields.io/badge/Node.js-0d0221?style=flat-square&logo=nodedotjs&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Express.js-0d0221?style=flat-square&logo=express&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Spring_Boot-0d0221?style=flat-square&logo=springboot&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Spring_MVC-0d0221?style=flat-square&logo=spring&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Spring_Security-0d0221?style=flat-square&logo=springsecurity&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/REST_APIs-0d0221?style=flat-square&logo=postman&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/JWT-0d0221?style=flat-square&logo=jsonwebtokens&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/OAuth2-0d0221?style=flat-square&logo=auth0&logoColor=ff2fa0"/> </td></tr> <tr><td><code>databases</code></td><td> <img src="https://img.shields.io/badge/MySQL-0d0221?style=flat-square&logo=mysql&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/MongoDB-0d0221?style=flat-square&logo=mongodb&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Firebase_Firestore-0d0221?style=flat-square&logo=firebase&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-0d0221?style=flat-square&logo=spring&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Hibernate-0d0221?style=flat-square&logo=hibernate&logoColor=ff2fa0"/> </td></tr> <tr><td><code>dev_tools</code></td><td> <img src="https://img.shields.io/badge/Git-0d0221?style=flat-square&logo=git&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/GitHub-0d0221?style=flat-square&logo=github&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Maven-0d0221?style=flat-square&logo=apachemaven&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/JavaFX-0d0221?style=flat-square&logo=openjdk&logoColor=ff2fa0"/> </td></tr> <tr><td><code>ai_tools</code></td><td> <img src="https://img.shields.io/badge/OpenAI_Codex-0d0221?style=flat-square&logo=openai&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Google_Antigravity-0d0221?style=flat-square&logo=google&logoColor=ff2fa0"/> <img src="https://img.shields.io/badge/Claude-0d0221?style=flat-square&logo=anthropic&logoColor=ff2fa0"/> </td></tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d0221,50:ff2fa0,100:0d0221" width="100%" alt=""/> <h3><code>[ 03 ] system.stats</code></h3> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adi7149&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff2fa0&icon_color=ff79c6&text_color=f8d7ff&ring_color=ff2fa0&include_all_commits=true&count_private=true" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi7149&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff2fa0&text_color=f8d7ff&langs_count=8" alt="Top languages"/> <img src="https://streak-stats.demolab.com?user=Adi7149&hide_border=true&background=0D0221&ring=FF2FA0&fire=FF79C6&currStreakNum=FFFFFF&sideNums=FF2FA0&currStreakLabel=FF2FA0&sideLabels=F8D7FF&dates=B388FF" alt="Streak stats"/> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7a00ff,50:ff2fa0,100:0d0221&animation=twinkling" width="100%" alt=""/> </div>
